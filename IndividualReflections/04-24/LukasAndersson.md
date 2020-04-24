@@ -1,0 +1,3 @@
+## Individual Reflection 04-24
+
+Right now my learning focus is Wordpress in general. I have never worked with Wordpress before so I need a deeper understanding of plugins etc to really understand how the product works. Something I have been using before however is Github so should be able to answer questions/help with that incase someone is stuck. This week I have not done so much coding progress but rather contributed in planning and tried to fully understand how Wordpress plugins are set up.
