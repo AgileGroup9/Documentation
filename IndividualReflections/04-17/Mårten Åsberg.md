@@ -1,4 +1,4 @@
-# Individual Reflections week 3
+# Individual Reflections week 2½
 
 * I want to learn more about WordPress plugins and React.
 * I can answer other group members questions.
