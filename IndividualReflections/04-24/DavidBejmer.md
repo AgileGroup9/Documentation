@@ -1,0 +1,2 @@
+Now we´ve just finished the first sprint and the area I need to improve in the most is to find a good workflow with primarily git. During the sprint we've used a lot of suboptimal solutions to working together with the coding, but it's improving for every day.
+Since last week I think I've gotten a better grasp on php and wordpress, which has led to more contributions to the teams work. My contributions this week has been mainly with finding solutions to problems within php and sql, setting up and integrating a db.
