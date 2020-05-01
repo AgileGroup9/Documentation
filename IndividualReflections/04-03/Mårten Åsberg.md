@@ -1,4 +1,4 @@
-# Individual Reflections week 2
+# Individual Reflections week 2 <small>Mårten Åsberg</small>
 
 * I want to learn more about our project.
 * I can answer other group members questions.

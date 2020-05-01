@@ -1,4 +1,4 @@
-# Individual Reflections week 3
+# Individual Reflections week 3 <small>Mårten Åsberg</small>
 
 * I still want to learn more about WordPress plugins and React.
 * I can continue to help my groupmates with git/GitHub and review their code.

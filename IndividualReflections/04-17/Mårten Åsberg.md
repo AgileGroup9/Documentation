@@ -1,4 +1,4 @@
-# Individual Reflections week 2½
+# Individual Reflections week 2½ <small>Mårten Åsberg</small>
 
 * I want to learn more about WordPress plugins and React.
 * I can answer other group members questions.

@@ -1,4 +1,4 @@
-# Individual Reflections week 4
+# Individual Reflections week 4 <small>Mårten Åsberg</small>
 
 * I don't know all of the stuff I might need to. Therefore I want to learn more
   about that.
