@@ -1,0 +1,2 @@
+# Reflection Jakob Hendén
+Den här veckan har jag lagt mycket tid på saker som senare visade sig vara oanvändbart, ganska frustrerande. Vi borde kanske ha insett tidigare att det inte var möjligt att genomföra uppgiften på det sättet vi tänkt från början, men nu är vi i alla fall på rätt spår och har klargjort vad som behövs för att producera en MVP.
