@@ -1,0 +1,6 @@
+#  Individuell reflektion 2020-05-08
+Denna sprint har enligt mig fungerat väldigt bra och vi har fått mycket gjort. Jag tror att detta till stor del har att göra med att vi börjar få mer erfarenhet av att planera sprints och att göra tidsbedömningarna. De tasks vi valde blev på grund av detta väldigt ”lagom” för en sprint, och vi lyckades åstadkomma det vi önskade, utan att behöva planera om i veckan likt hur den förra sprinten blev. 
+
+Vi börjar närma oss en MVP, och under nästa vecka kommer vi förmodligen att fortsätta att utveckla mer av produktens kärnfunktionalitet. Mitt bidrag den här veckan har varit att utveckla admin-sidan för visualisering av order samt möjlighet för produktägaren att aktivera och avaktivera olika tillvalsalternativ från menyn.
+
+Något jag hade velat lära mig mer om är vilka möjligheter som finns för att tillföra interaktivitet till en webbsida, och vilka verktyg som kan krävas för att göra det. Vi verkar har kommit runt en del av den problematik vi hade på detta området genom att i huvudsak använda oss av HTML och PHP, men det hade varit intressant att se om det fanns bättre designval om man istället väljer att använda JavaScript och React i större utsträckning.
