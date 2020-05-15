@@ -1,2 +1,0 @@
-# Reflection Jakob Hendén 150520
-Denna veckan har vi suttit med lite mindre tasks eftersom de största delarna av projektet är färdiga. Det som återstår är mindre fixar och att sy ihop de olika delarna, vilket gör att känslan av progress inte är lika stor som förra veckan, även om mycket viktigt blivit gjort. Hur som helst börjar vi få en färdig produkt som fungerar som tänkt, även om det finns vissa funktioner och kontroller som behöver läggas till i sista sprinten.
